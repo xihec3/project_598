@@ -1,0 +1,4 @@
+py-cpuinfo
+numpy
+torch
+gensim
